@@ -32,4 +32,7 @@ We can split these tasks into key components of a learning system:
 
 ### Unsupervised learning 
 
--->
+--> It can be unsupervised or self-supervised
+--> You can have someone else decide if you were succesful or not 
+
+### 
